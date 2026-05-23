@@ -1,2 +1,2 @@
-# anatomiadodinheiro
-Um repositório contendo todo o conteúdo do canal do YouTube convertido para texto.
+# Anatomia do dinheiro
+Um repositório contendo todo o conteúdo do canal do YouTube em texto.
